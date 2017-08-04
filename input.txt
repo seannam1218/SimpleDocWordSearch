@@ -1,0 +1,1 @@
+let's make this simple and easy. We are trying to get the number of times a specified word comes up in this document. We have the word simple appear twice in this document. We also have other words appear multiple times. fuck fuck fuck fuck fuck.
